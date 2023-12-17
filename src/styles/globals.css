@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  font-family: monospace;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  color: seashell;
+}
+
+body {
+  background-color: black;
+}
+
+.container {
+  padding: 6em 10em;
+  margin: auto;
+}

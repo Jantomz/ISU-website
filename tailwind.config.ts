@@ -9,6 +9,12 @@ export default {
         sans: ["var(--font-sans)", ...fontFamily.sans],
       },
     },
+    colors: {
+      techGreen: "#00A676",
+      mustyGray: "#586F7C",
+      seashell: "#F4F4F9",
+      nightPurple: "#17183B",
+    },
   },
   plugins: [],
 } satisfies Config;
