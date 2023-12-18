@@ -14,6 +14,7 @@ export default {
       mustyGray: "#586F7C",
       seashell: "#F4F4F9",
       nightPurple: "#17183B",
+      black: "#000",
     },
   },
   plugins: [],
