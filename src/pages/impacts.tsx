@@ -93,7 +93,7 @@ export default function Impacts() {
         </button>
       </div>
       {showBit === 1 ? (
-        <p className="text-black bg-techGreen p-8">
+        <p className="bg-techGreen p-8 text-black">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos iste
           voluptas perspiciatis laboriosam ipsum provident maxime asperiores
           eum, doloremque reiciendis cumque sunt animi facilis reprehenderit?
@@ -101,7 +101,7 @@ export default function Impacts() {
         </p>
       ) : null}
       {showBit === 2 ? (
-        <p className="text-black bg-techGreen p-8">
+        <p className="bg-techGreen p-8 text-black">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos iste
           voluptas perspiciatis laboriosam ipsum provident maxime asperiores
           eum, doloremque reiciendis cumque sunt animi facilis reprehenderit?
@@ -109,7 +109,7 @@ export default function Impacts() {
         </p>
       ) : null}
       {showBit === 3 ? (
-        <p className="text-black bg-techGreen p-8">
+        <p className="bg-techGreen p-8 text-black">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos iste
           voluptas perspiciatis laboriosam ipsum provident maxime asperiores
           eum, doloremque reiciendis cumque sunt animi facilis reprehenderit?

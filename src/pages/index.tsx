@@ -1,12 +1,14 @@
-import Head from "next/head";
-import Link from "next/link";
 import Gallery from "~/components/gallery";
 import IndexHero from "~/components/indexHero";
 
 export default function Home() {
-  const handleBack = () => {};
+  const handleBack = () => {
+    return null;
+  };
 
-  const handleForward = () => {};
+  const handleForward = () => {
+    return null;
+  };
 
   return (
     <main className="container">
