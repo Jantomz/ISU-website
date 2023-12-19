@@ -64,7 +64,7 @@ export default function Home() {
         To build up to its current-day abilities, CV needed a base of fields to
         learn from!
       </p>
-      <main className="mx-36 mt-24 flex items-center justify-center rounded-md border-[36px] border-solid border-techGreen bg-mustyGray">
+      <main className="monitor mx-36 mt-24 flex items-center justify-center rounded-md border-[36px] border-solid border-techGreen bg-mustyGray">
         <button onClick={handleBack}>
           <span className="material-symbols-outlined p-4">arrow_back_ios</span>
         </button>
@@ -105,7 +105,7 @@ export default function Home() {
                 </li>
                 <li className="list-disc">
                   Studying functions that mimic neurons is a good way to
-                  determine the action potential of a node (mimiccking a neuron)
+                  determine the action potential of a node (mimicking a neuron)
                   in an ML model
                 </li>
                 <li className="list-disc">
@@ -174,8 +174,8 @@ export default function Home() {
         </button>
       </main>
 
-      <main className="m-auto h-24 w-16 bg-mustyGray"></main>
-      <main className="m-auto h-6 w-72 rounded-md bg-mustyGray"></main>
+      <main className="stand m-auto h-24 w-16 bg-mustyGray"></main>
+      <main className="stand m-auto h-6 w-72 rounded-md bg-mustyGray"></main>
       {/* Third Body */}
       <h3 className="pt-24 text-5xl">Personal Experiences</h3>
       <ul className="py-6 text-xl">
@@ -222,6 +222,7 @@ export default function Home() {
         React, Python, Tensorflow and HTML to create Pentous!
       </p>
       <Gallery></Gallery>
+      <div className="main"></div>
     </main>
   );
 }

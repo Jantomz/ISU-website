@@ -5,8 +5,8 @@ export default function History() {
   return (
     <>
       <HistoryHero />
-
       <Timeline />
+      <div className="main"></div>
     </>
   );
 }

@@ -9,12 +9,265 @@
   margin: 0px;
   color: seashell;
 }
-
-body {
-  background-color: black;
-}
-
 .container {
   padding: 6em 24em;
   margin: auto;
+}
+
+@media only screen and (max-width: 1300px) {
+  .container {
+    padding: 6em 8em;
+    margin: auto;
+  }
+  h1 h2 {
+    font-size: 3em !important;
+  }
+  h3 {
+    font-szie: 1.5em !important;
+  }
+  p {
+    font-size: 1em !important;
+  }
+
+  .monitor {
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+
+  li {
+    font-size: 0.8em !important;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  iframe {
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .monitor {
+    border: none;
+  }
+
+  .container {
+    padding: 2em !important;
+  }
+
+  h1 {
+    font-size: 2em !important;
+  }
+  h3 {
+    font-size: 1.4em !important;
+  }
+  .stand {
+    display: none;
+  }
+
+  button {
+    padding: 0px !important;
+    margin: 0em;
+  }
+
+  nav {
+    gap: 20px !important;
+  }
+}
+
+body {
+  background-color: #000;
+}
+
+.main {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  height: 1px;
+  width: 1px;
+  background-color: #00a61986;
+  border-radius: 50%;
+  box-shadow:
+    -42vw -4vh 0px 0px #00a61986,
+    25vw -41vh 0px 0px #00a61986,
+    -20vw 49vh 0px 1px #00a61986,
+    5vw 40vh 1px 1px #00a61986,
+    29vw 19vh 1px 0px #435fff86,
+    -44vw -13vh 0px 0px #00a61986,
+    46vw 41vh 0px 1px #00a61986,
+    -3vw -45vh 0px 1px #435fff86,
+    47vw 35vh 1px 0px #00a61986,
+    12vw -8vh 1px 0px #435fff86,
+    -34vw 48vh 1px 1px #00a61986,
+    32vw 26vh 1px 1px #435fff86,
+    32vw -41vh 1px 1px #00a61986,
+    0vw 37vh 1px 1px #00a61986,
+    34vw -26vh 1px 0px #00a61986,
+    -14vw -49vh 1px 0px #435fff86,
+    -12vw 45vh 0px 1px #00a61986,
+    -44vw -33vh 0px 1px #435fff86,
+    -13vw 41vh 0px 0px #00a61986,
+    -36vw -11vh 0px 1px #00a61986,
+    -23vw -24vh 1px 0px #435fff86,
+    -38vw -27vh 0px 1px #00a61986,
+    16vw -19vh 0px 0px #00a61986,
+    28vw 33vh 1px 0px #00a61986,
+    -49vw -4vh 0px 0px #435fff86,
+    16vw 32vh 0px 1px #00a61986,
+    36vw -18vh 1px 0px #00a61986,
+    -25vw -30vh 1px 0px #00a61986,
+    -23vw 24vh 0px 1px #435fff86,
+    -2vw -35vh 1px 1px #00a61986,
+    -25vw 9vh 0px 0px #00a61986,
+    -15vw -34vh 0px 0px #00a61986,
+    -8vw -19vh 1px 0px #435fff86,
+    -20vw -20vh 1px 1px #00a61986,
+    42vw 50vh 0px 1px #00a61986,
+    -32vw 10vh 1px 0px #00a61986,
+    -23vw -17vh 0px 0px #00a61986,
+    44vw 15vh 1px 0px #00a61986,
+    -40vw 33vh 1px 1px #435fff86,
+    -43vw 8vh 0px 0px #00a61986,
+    -48vw -15vh 1px 1px #435fff86,
+    -24vw 17vh 0px 0px #00a61986,
+    -31vw 50vh 1px 0px #435fff86,
+    36vw -38vh 0px 1px #00a61986,
+    -7vw 48vh 0px 0px #00a61986,
+    15vw -32vh 0px 0px #435fff86,
+    29vw -41vh 0px 0px #00a61986,
+    2vw 37vh 1px 0px #00a61986,
+    7vw -40vh 1px 1px #435fff86,
+    15vw 18vh 0px 0px #00a61986,
+    25vw -13vh 1px 1px #435fff86,
+    -46vw -12vh 1px 1px #00a61986,
+    -18vw 22vh 0px 0px #435fff86,
+    23vw -9vh 1px 0px #00a61986,
+    50vw 12vh 0px 1px #00a61986,
+    45vw 2vh 0px 0px #00a61986,
+    14vw -48vh 1px 0px #435fff86,
+    23vw 43vh 0px 1px #00a61986,
+    -40vw 16vh 1px 1px #435fff86,
+    20vw -31vh 0px 1px #00a61986,
+    -17vw 44vh 1px 1px #435fff86,
+    18vw -45vh 0px 0px #00a61986,
+    33vw -6vh 0px 0px #00a61986,
+    0vw 7vh 0px 1px #00a61986,
+    -10vw -18vh 0px 1px #435fff86,
+    -19vw 5vh 1px 0px #00a61986,
+    1vw 42vh 0px 0px #435fff86,
+    22vw 48vh 0px 1px #00a61986,
+    39vw -8vh 1px 1px #00a61986,
+    -6vw -42vh 1px 0px #435fff86,
+    -47vw 34vh 0px 0px #00a61986,
+    -46vw 19vh 0px 1px #435fff86,
+    -12vw -32vh 0px 0px #00a61986,
+    -45vw -38vh 0px 1px #00a61986,
+    -28vw 18vh 1px 0px #00a61986,
+    -38vw -46vh 1px 1px #435fff86,
+    49vw -6vh 1px 1px #00a61986,
+    -28vw 18vh 1px 1px #435fff86,
+    10vw -24vh 0px 1px #00a61986,
+    -5vw -11vh 1px 1px #00a61986,
+    33vw -8vh 1px 0px #435fff86,
+    -16vw 17vh 0px 0px #00a61986,
+    18vw 27vh 0px 1px #435fff86,
+    -8vw -10vh 1px 1px #00a61986;
+
+  /* stars were too big with the layers above but left the code in case no one cares  -- as in, if noone's just that  one other loner who actually cares    */
+
+  box-shadow:
+    24vw 9vh 1px 0px #00a61986,
+    12vw -24vh 0px 1px #00a61986,
+    -45vw -22vh 0px 0px #00a61986,
+    -37vw -40vh 0px 1px #00a61986,
+    29vw 19vh 0px 1px #00a61986,
+    4vw -8vh 0px 1px #435fff86,
+    -5vw 21vh 1px 1px #435fff86,
+    -27vw 26vh 1px 1px #00a61986,
+    -47vw -3vh 1px 1px #00a61986,
+    -28vw -30vh 0px 1px #00a61986,
+    -43vw -27vh 0px 1px #00a61986,
+    4vw 22vh 1px 1px #00a61986,
+    36vw 23vh 0px 0px #435fff86,
+    -21vw 24vh 1px 1px #00a61986,
+    -16vw 2vh 1px 0px #00a61986,
+    -16vw -6vh 0px 0px #00a61986,
+    5vw 26vh 0px 0px #435fff86,
+    -34vw 41vh 0px 0px #00a61986,
+    1vw 42vh 1px 1px #00a61986,
+    11vw -13vh 1px 1px #435fff86,
+    48vw -8vh 1px 0px #00a61986,
+    22vw -15vh 0px 0px #00a61986,
+    45vw 49vh 0px 0px #00a61986,
+    43vw -27vh 1px 1px #00a61986,
+    20vw -2vh 0px 0px #435fff86,
+    8vw 22vh 0px 1px #00a61986,
+    39vw 48vh 1px 1px #00a61986,
+    -21vw -11vh 0px 1px #00a61986,
+    -40vw 45vh 0px 1px #00a61986,
+    11vw -30vh 1px 0px #435fff86,
+    26vw 30vh 1px 0px #00a61986,
+    45vw -29vh 0px 1px #435fff86,
+    -2vw 18vh 0px 0px #00a61986,
+    -29vw -45vh 1px 0px #00a61986,
+    -7vw -27vh 1px 1px #435fff86,
+    42vw 24vh 0px 0px #00a61986,
+    45vw -48vh 1px 0px #435fff86,
+    -36vw -18vh 0px 0px #00a61986,
+    -44vw 13vh 0px 1px #00a61986,
+    36vw 16vh 0px 1px #435fff86,
+    40vw 24vh 0px 0px #00a61986,
+    18vw 11vh 0px 0px #00a61986,
+    -15vw -23vh 1px 0px #00a61986,
+    -24vw 48vh 0px 1px #435fff86,
+    27vw -45vh 1px 0px #00a61986,
+    -2vw -24vh 0px 1px #00a61986,
+    -15vw -28vh 0px 0px #00a61986,
+    -43vw 13vh 1px 0px #00a61986,
+    7vw 27vh 1px 0px #00a61986,
+    47vw 5vh 0px 0px #00a61986,
+    -45vw 15vh 1px 1px #00a61986,
+    -5vw -28vh 0px 1px #435fff86,
+    38vw 25vh 1px 1px #00a61986,
+    -39vw -1vh 1px 0px #435fff86,
+    5vw 0vh 1px 0px #00a61986,
+    49vw 13vh 0px 0px #00a61986,
+    48vw 10vh 0px 1px #00a61986,
+    19vw -28vh 0px 0px #435fff86,
+    4vw 7vh 0px 0px #00a61986,
+    21vw 21vh 1px 1px #00a61986,
+    -15vw -15vh 0px 1px #00a61986,
+    -6vw -42vh 1px 0px #435fff86,
+    -15vw 48vh 1px 1px #00a61986,
+    -23vw 25vh 1px 1px #00a61986,
+    -48vw 25vh 0px 1px #00a61986,
+    -31vw -19vh 0px 1px #00a61986,
+    4vw 37vh 1px 1px #00a61986,
+    -43vw 28vh 0px 0px #00a61986,
+    3vw -25vh 0px 1px #00a61986,
+    -39vw 14vh 0px 1px #00a61986,
+    -40vw 31vh 0px 1px #00a61986,
+    35vw -36vh 1px 1px #00a61986,
+    16vw 49vh 0px 0px #00a61986,
+    6vw 39vh 0px 0px #00a61986,
+    3vw -35vh 0px 1px #00a61986,
+    -44vw -2vh 1px 0px #00a61986,
+    -6vw 21vh 1px 0px #00a61986,
+    48vw 9vh 1px 1px #00a61986,
+    -43vw 30vh 1px 1px #00a61986,
+    29vw -12vh 1px 1px #00a61986,
+    -48vw 13vh 1px 0px #00a61986,
+    -42vw 32vh 1px 1px #00a61986,
+    34vw 15vh 1px 1px #00a61986,
+    29vw -37vh 1px 1px #00a61986,
+    28vw 2vh 0px 0px #00a61986;
+  animation: zoom 16s alternate infinite;
+}
+
+@keyframes zoom {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.5);
+  }
 }
