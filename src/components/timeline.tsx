@@ -8,7 +8,7 @@ export default function Timeline() {
         <div className="w-1/2 border-r-2 border-r-techGreen p-4 text-right">
           <h1 className="py-4 text-3xl font-bold">1956 AI Seminar</h1>
           The first instance of computer vision was introduced at a Dartmouth
-          College summer seminar on Artificial Intelligence
+          College summer seminar on Artificial Intelligence (Srivasta).
           <p className="pt-8 text-xl">
             This is deemed the official conception of AI, CV and ML (by
             Dartmouth... and many other scientists)!
@@ -39,7 +39,7 @@ export default function Timeline() {
           <p className="py-4">
             Harvard neurophysiologists David H. Hubel and Torsten Wiesel
             examined the primary visual cortex of a cat by using a
-            microelectrode to measure neuron impulses
+            microelectrode to measure neuron impulses (Srivasta).
           </p>
           <p className="py-4">
             This is the beginnings of mimicking human vision and using biology
@@ -57,7 +57,7 @@ export default function Timeline() {
         <div className="w-1/2 border-r-2 border-r-techGreen p-4 text-right">
           <h1 className="py-4 text-3xl font-bold">1962 Hough Transform</h1>
           The Hough Transform was a massive breakthrough in pattern recognition
-          using functions and mathematics to detect lines
+          using functions and mathematics to detect lines (Srivasta).
           <br></br>
           You can read more about the way it accomplishes this and the theory
           here:<br></br>
@@ -85,11 +85,11 @@ export default function Timeline() {
         <div className="w-1/2 p-4">
           <h1 className="py-4 text-3xl font-bold">1963 Lawrence Roberts</h1>
           Computers began visualising and calculating what 3 dimensional vision
-          would be like in a 2 dimensional display
+          would be like in a 2 dimensional display (Srivasta).
           <p className="text-xl">
             Lawrence “Larry” Roberts, deemed the father of computer vision,
             explored extracting 3D information from 2D views (so that computer
-            vision can be applied to our 3D world!)
+            vision can be applied to our 3D world)!
           </p>
         </div>
       </div>
@@ -99,11 +99,14 @@ export default function Timeline() {
           <h1 className="py-4 text-3xl font-bold">1969 David Marr</h1>
           <p>
             David Marr, British neuroscientist, published seminal papers about
-            vision and the brain
+            vision and the brain (Srivasta).
           </p>
           <p className="text-xl">
             Coined the ‘stages of vision’ primal sketch, 2.5D sketch and 3D
             sketch
+          </p>
+          <p className="text-xl">
+            This was a good rundown of the way vision is assessed by our brain!
           </p>
         </div>
         <div className="w-1/2  p-4">
@@ -128,10 +131,11 @@ export default function Timeline() {
         <div className="w-1/2 p-4">
           <h1 className="py-4 text-3xl font-bold">1990 Max Pooling</h1>
           Yamaguchi (and partner researchers) created max pooling, a filtering
-          operation to calculate the values at certain pixel regions
+          operation to calculate the values at certain pixel regions so that
+          computers can group pixels together (Srivasta).
           <p className="text-lg">
-            Max pooling contributed to Convolutional Neural Networks, a work
-            derived from the research of Hubel and Wiesel (from 1959!)
+            Max pooling contributed to Convolutional Neural Networks (CNN), a
+            work derived from the research of Hubel and Wiesel (from 1959)!
           </p>
         </div>
       </div>
@@ -142,12 +146,17 @@ export default function Timeline() {
           <h1 className="py-4 text-3xl font-bold">2001 Viola Jones</h1>
           <p>
             The Viola Jones face detection framework was proposed by Paul Viola
-            and Michael Jones
+            and Michael Jones (Srivasta).
           </p>
           <p>
             Bounding faces and detecting their presence in images was a complex
             pattern recognition problem before then, now it is used everywhere
-            (think apple and android image face detection!)
+            (think apple and android image face detection)!
+          </p>
+          <p className="text-lg">
+            Simply put, when an image has 2 similarly colored pixel regions
+            (eyes) with a long similarly colored pixel region below (mouth) it
+            may be a face!
           </p>
         </div>
         <div className="w-1/2 p-4">
@@ -171,7 +180,7 @@ export default function Timeline() {
         <div className="w-1/2 p-4">
           <h1 className="py-4 text-3xl font-bold">2014 Zero Sum Game</h1>
           Ian Goodfellow developed the generative adversarial network (GAN) for
-          generative AI and computer vision
+          generative AI and computer vision (Srivasta).
           <p className="pt-4">
             The competition of two neural networks in a zero sum game (the win
             of a player is the loss of another) creates an unsupervised training
@@ -181,7 +190,7 @@ export default function Timeline() {
           </p>
           <p className="pt-4">
             Basically... two AI's battled/trained each other to become smarter!
-            (Not super accurate, but a fun way to think of it!)
+            (Not super accurate, but a fun way to think of it)!
           </p>
         </div>
       </div>

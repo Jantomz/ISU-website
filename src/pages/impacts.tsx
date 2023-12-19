@@ -17,12 +17,12 @@ export default function Impacts() {
             <p className="pb-3 text-black">
               For general society and the culture surrounding travel and
               automobiles, there is a grand shift towards autonomous vehicles
+              (Hill).
             </p>
             <p className=" text-black">
               Vehicles are able to see all obstacles and obstructions
-              (pedestrians, objects and other vehicles and process them
-              simultaneously to produce the safest route and fast crises
-              prevention (AugmentedStartups)
+              (pedestrians, objects and other vehicles) and process them
+              simultaneously to produce the safest route (AugmentedStartups).
             </p>
           </div>
 
@@ -30,20 +30,20 @@ export default function Impacts() {
             <h1 className="text-center text-xl text-black">Careers</h1>
             <p className="pb-3 text-black">
               Each corporation will want to create a model specific to their own
-              needs, so the career to create the programs in which models can be
-              created and trained is essential (Indeed, uTorontoA)
+              needs, so the job market in computer science would increase
+              (Indeed, uTorontoA)!
             </p>
             <p className="text-black">
               For example, a new automobile company might want to create their
-              own model that can assess road smoothness and roughness for
-              enjoyable travel
+              own CV program that can assess road smoothness and roughness for
+              enjoyable travel.
             </p>
           </div>
         </div>
         <h1 className="pt-8 text-center text-lg">
           This was my first introduction to AI when I was 10! I love this video
-          and I think it explains well some of the scary aspects of AI in
-          general (these can be applied to CV)
+          and I think it explains well some of the scary aspects of AI (these
+          can be applied to CV in similar ways).
         </h1>
         <iframe
           className="m-8 mx-auto"
@@ -59,32 +59,34 @@ export default function Impacts() {
             <h1 className="text-center text-xl text-black">Impacts</h1>
             <p className="pb-3 text-black">
               With autonomous vehicles helping society (like mentioned above),
-              the world’s automobile industry will evolve once again (from
-              horses and biological muscles to cars and mechanical muscles)
-              (AugmentedStartups)
+              the world’s automobile industry will evolve again; like when
+              horses and biological muscles evolved to cars and mechanical
+              muscles (AugmentedStartups).
             </p>
             <p className=" text-black">
-              With AR using CV, the industry for entertainment, products and
-              services in VR grows<br></br> This flow of cash can bring
-              opportunities to local economies
+              With AR using CV, the products and services in VR and the
+              entertainment industry grow<br></br>This flow of cash can bring
+              opportunities to local economies (Forbes).
             </p>
             <h2 className="py-4 text-xl text-black">Negative:</h2>
             <p className=" text-black">
               Computer vision and machine learning has a big downside in
-              possibly reducing the relevance of human labor and jobs
+              possibly reducing the relevance of human labor and jobs. Computers
+              are gaining the ability to process the physical world without
+              human input.
             </p>
           </div>
           <div className="m-6 flex w-4/5 flex-col flex-wrap rounded-md bg-mustyGray p-3">
             <h1 className="text-center text-xl text-black">Solutions</h1>
             <p className="pb-3 text-black">
               The prevention to the problem of labour relies heavily on workers
-              being able to take advantage of their power before they are being
-              replaced (protests and workforce protection laws)
+              being able to take advantage of their power before they are
+              replaced (protests and workforce protection laws like those of the
+              Hollywood Writers Strike) (Coyle).
             </p>
             <p className=" text-black">
-              Additionally, there must be an increase in high jobs that are
-              currently out of reach for computer vision (nursing, teaching,
-              social workers)
+              There must also be an increase in jobs that are currently out of
+              reach for computer vision (nurses, teachers, social workers).
             </p>
           </div>
         </div>
@@ -95,28 +97,29 @@ export default function Impacts() {
             <h1 className="text-center text-xl text-black">Impacts</h1>
             <p className="pb-3 text-black">
               Computer vision can detect the emission output from factories,
-              power plans, vehicles, livestock and neighbourhoods to then be
-              used as data for emission reduction plans (LinkedIn)
+              power plants, vehicles, livestock and neighbourhoods to then be
+              used as data for emission reduction plans (LinkedIn).
             </p>
             <p className="pb-3 text-black">
               Computer vision can monitor ecosystems and their health with
-              different satellite and surveillance imagery (LinkedIn)
+              satellite and surveillance imagery (LinkedIn).
             </p>
             <h2 className="py-4 text-xl text-black">Negative:</h2>
             <p className=" pb-3 text-black">
-              The push towards artificial intelligence increases use of
-              machines, which necessitates the use of energy
+              The push towards artificial intelligence increases the use of
+              energy.
             </p>
             <p className="text-black">
               The current state of the world does not offer great means to
-              acquire this energy apart from emissions in burning fossil fuels
+              acquire fast and reliable energy apart from burning fossil fuels.
             </p>
           </div>
           <div className="m-6 flex w-4/5 flex-col flex-wrap rounded-md bg-mustyGray p-3">
             <h1 className="text-center text-xl text-black">Solutions</h1>
             <p className="pb-3 text-black">
               The best way to combat the negative aspect of burning fossil fuels
-              is to push towards green energy
+              is to push towards green energy in anticipation of the future
+              (LinkedIn).
             </p>
             <p className=" text-black">
               There may be no way to stop the AI revolution, so the best
@@ -132,45 +135,46 @@ export default function Impacts() {
             <h1 className="text-center text-xl text-black">Impacts</h1>
             <p className="pb-3 text-black">
               Cancer identifying CV programs are used to detect tumours in MRI’s
-              (Mihajlovic)
+              (Mihajlovic).
             </p>
             <p className="text-black">
               Computer vision allows subtle patterns in medical imaging to be
               picked up, increasing the rate of successful early catches on
-              complications (AugmentedStartups)
+              complications (AugmentedStartups) (Javaid).
             </p>
             <h2 className="py-4 text-xl text-black">Negative:</h2>
             <p className=" text-black">
-              Computer vision gives humans the ability to augment their reality,
-              they may fall into isolation if too attached to virtual reality,
-              decreasing mental well-being
+              Computer vision gives humans the ability to augment reality at a
+              better degree. People may fall into isolation if too attached to
+              virtual reality, decreasing mental well-being.
             </p>
           </div>
           <div className="m-6 flex flex-col flex-wrap rounded-md bg-mustyGray p-3">
             <h1 className="text-center text-xl text-black">Solutions</h1>
             <p className="pb-3 text-black">
-              A solution to this problem can be summed up in the fact that more
-              awareness about this possibility should be advertised to the
-              public.
+              The major solution to this problem would be summed up in the fact
+              that more awareness about mental health and technology use should
+              be advertised to the public.
             </p>
             <p className="pb-3 text-black">
-              Additionally, it is possible that AR can actually be used to treat
-              isolation by giving humans a chance to connect online when it is
-              much more difficult to connect in-person (during pandemic!)
+              Additionally, the problem should be used against itself. It is
+              possible that AR can actually be used to treat isolation by giving
+              humans a chance to connect online when it is much more difficult
+              to connect in-person (like during the Covid pandemic)!
             </p>
           </div>
         </div>
-        <div className="m-6 flex flex-col flex-wrap rounded-md bg-seashell p-3">
+        <div className="m-6 flex flex-col flex-wrap rounded-md bg-techGreen p-3">
           <h1 className="text-center text-xl text-black">Careers</h1>
           <p className="text-black">
             "Computer science doctors" may arise due to the interconnection
-            between human health and mechanical health
+            between human health and mechanical health.
           </p>
           <p className="text-black">
             With the new development in biotechnology, there is a vast field
             ready to be explored. For example, nurses who can create programs
             for patients' microbots to provide medicine may very well be a
-            future job.
+            future job (Forbes).
           </p>
         </div>
 
@@ -183,64 +187,83 @@ export default function Impacts() {
             <p className="pb-3 text-black">
               Using computers to “see” and analyse visual elements is a prime
               zone for espionage and privacy concerns in a consumers day to day
-              lives
+              life (LinkedIn).
             </p>
             <p className="pb-3 text-black">
               Big companies are already using computer vision to access data
-              about a users social media output for targeted advertising
+              about a users social media output for targeted advertising.
             </p>
             <p className=" pb-3 text-black">
               Computer vision can be used to discriminate against different
-              groups for insurance or other services
+              groups for insurance or other services.
             </p>
 
             <p className=" pb-3 text-black">
-              Having your face logged on security cameras and remembered using
-              computer vision leads to leaks in privacy of location and
-              identification (LinkedIn)
+              Having your face logged on security cameras using computer vision
+              leads to leaks in privacy of location and identification
+              (LinkedIn).
             </p>
           </div>
           <div className="m-6 flex flex-col flex-wrap rounded-md bg-mustyGray p-3">
             <h1 className="text-center text-xl text-black">Solutions</h1>
             <p className="pb-3 text-black">
               There will need to be cut backs on the permissions of computer
-              systems and their vision in all aspects of life, even though they
-              may take away some benefits of the system (LinkedIn)
+              systems and their vision in all aspects of life. Laws must be
+              established, even though they may take away some benefits of CV
+              (LinkedIn).
             </p>
             <p className="pb-3 text-black">
               Opt-in must be mandatory for service providers that have computer
               vision, as it should be a system where the user is assumed to give
-              no consent, unless explicitly mentioned otherwise
+              no consent, unless explicitly mentioned otherwise.
             </p>
             <p className="pb-3 text-black">
               The general practice of caution and licensable CV models should be
-              controlled when used at a corporate level
+              controlled when used at a corporate level.
             </p>
           </div>
         </div>
         <div className="m-6 flex flex-col flex-wrap rounded-md bg-seashell p-3">
           <h1 className="text-center text-xl text-black">Careers</h1>
           <p className="pb-3 text-black">
-            In these cases, jobs in legal action for and against CV and AI will
-            become commonplace
+            Jobs in legal action for and against CV and AI will become
+            commonplace (Srivasta).
           </p>
           <p className="text-black">
-            There may be a demand for people to properly evaluate and train CV
-            models to prevent discrimination. However, I predict this job will
-            only exist for a short while before CV models begin evaluating other
-            CV models. This approach is like Ian Goodfellow's GAN system of
-            training models referencing each other.
+            There also may be a demand for people to properly evaluate and train
+            CV models to prevent discrimination. However, I predict this job
+            will only exist for a short while before CV models begin evaluating
+            themselves. This approach is like Ian Goodfellow's GAN system of
+            training models by referencing each other (MotionMetrics).
           </p>
         </div>
       </div>
+      <h1 className="p-5 text-center text-3xl text-seashell">
+        Post-Secondary Requirements for Career Options!
+      </h1>
       <div className="flex justify-center gap-1">
-        <button className="bg-nightPurple p-4" onClick={() => setShowBit(1)}>
+        <button
+          className={`bg-nightPurple p-4 ${
+            showBit === 1 ? `bg-opacity-70` : `hover:bg-mustyGray`
+          }`}
+          onClick={() => setShowBit(1)}
+        >
           Ethical, Law and Data Analysis
         </button>
-        <button className="bg-nightPurple p-4" onClick={() => setShowBit(2)}>
+        <button
+          className={`bg-nightPurple p-4 ${
+            showBit === 2 ? `bg-opacity-70` : `hover:bg-mustyGray`
+          }`}
+          onClick={() => setShowBit(2)}
+        >
           Implementation, Training and Maintenance
         </button>
-        <button className="bg-nightPurple  p-4" onClick={() => setShowBit(3)}>
+        <button
+          className={`bg-nightPurple p-4 ${
+            showBit === 3 ? `bg-opacity-70` : `hover:bg-mustyGray`
+          }`}
+          onClick={() => setShowBit(3)}
+        >
           Theoretical/Mathematical
         </button>
       </div>
@@ -254,21 +277,21 @@ export default function Impacts() {
           <ul>
             <li className="list-disc text-lg text-black">
               Law school in conjunction with the understanding of mechanical
-              minds and computer science
+              minds and computer science (Indeed).
             </li>
             <li className="list-disc text-lg text-black">
               There will need to be an understanding of the rights of a machine
-              and its uses
+              and its uses.
             </li>
             <li className="list-disc text-lg text-black">
               Discriminatory biases will be an important part of the job, and a
               post-secondary education in ethnic studies would be useful to
-              understand the different ways data-sets may be trained poorly
+              understand the different ways data-sets may be trained poorly.
             </li>
             <li className="list-disc text-lg text-black">
               For this segment, you will basically need a double major in these
               fields, as these career opportunities are so novel that it’s not
-              something that institutions provide readily
+              something that institutions provide readily (Indeed).
             </li>
             <Link
               className="text-lg underline decoration-mustyGray"
@@ -294,7 +317,7 @@ export default function Impacts() {
             </li>
             <li className="list-disc text-lg text-black">
               An example of a real post-secondary education segment is this
-              department at the University of Toronto:
+              department at the University of Toronto:{" "}
               <Link
                 className="text-seashell underline decoration-mustyGray"
                 href="https://www.engineering.utoronto.ca/research-innovation/industry-partnerships-with-u-of-t-engineering/data-analytics-artificial-intelligence/"
@@ -320,7 +343,7 @@ export default function Impacts() {
             </li>
             <li className="list-disc text-lg text-black">
               A great encapsulation of this idea is UToronto's Master of Applied
-              Science Department
+              Science Department.
             </li>
             <li className="list-disc text-lg text-black">
               There are requirements for the Masters (
@@ -335,7 +358,7 @@ export default function Impacts() {
             <ul className="pl-12">
               <li className="list-disc text-lg text-black">
                 Complete six graduate level courses (totalling 3.0 Full Course
-                Equivalents (FCEs))
+                Equivalents (FCEs)).
               </li>
               <li className="list-disc text-lg text-black">
                 Two courses (1.0 FCEs) chosen from the Department of Mathematics

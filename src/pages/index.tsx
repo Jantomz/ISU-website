@@ -31,8 +31,8 @@ export default function Home() {
         input for processing (IBM). By allowing computers to “see” the world and
         process what it is seeing, it pushes technology towards one of
         humanity’s most valuable senses, sight. With a market value of 22.27
-        billion, CV is becoming much more accurate with the possibilities of 99%
-        identification accuracy (Mihajlovic).
+        billion USD, CV is becoming much more accurate with the possibilities of
+        99% identification accuracy (Statista).
       </p>
       <h3 className=" pt-24 text-right text-5xl">Simplified Explanation</h3>
       <p className="py-6 text-xl">
@@ -41,14 +41,14 @@ export default function Home() {
         image is by only using black and white pictures. The brightnesses of
         each pixel can be converted to their respective values (representing the
         brightness of each pixel) and can be placed in an array. The array can
-        then be analysed for many different types of patterns (IBM). The
+        then be analysed for many different types of patterns (Simplilearn). The
         patterns are associated with their respective labels for the objects in
         the images. After many different images from a data set and tweaks to
         the types of template patterns, a model is compiled that knows the
-        patterns of pixels for specific shapes. When novel images are given to
-        the model, it compares the new patterns to known patterns and gives a
-        similarity rating. The label with the highest matching rate is the
-        classification given to the image.
+        patterns of pixels for specific shapes. (V7Labs) When novel images are
+        given to the model, it compares the new patterns to known patterns and
+        gives a similarity rating. The label with the highest matching rate is
+        the classification given to the image (IBM).
       </p>
       <div className="pt-4 text-center text-2xl">Helpful Video!</div>
       <iframe
@@ -79,16 +79,20 @@ export default function Home() {
               <ul className="p-6 text-sm duration-700 ease-in-out">
                 <li className="list-disc">
                   Learning how to get visual input to CV models for processing
-                  is the first step in processing patterns for CV
+                  is the first step in processing patterns for CV (Microsoft).
                 </li>
                 <li className="list-disc">
                   It is vital for computer vision to receive the data with as
-                  much detail as possible, so that the models can be precise
+                  much detail as possible, so that the models can be precise.
                 </li>
                 <li className="list-disc">
                   If other types of imaging can also be researched and developed
                   (IR and sound wave imaging), computers can receive more than
-                  the typical visual information
+                  the typical visual information.
+                </li>
+                <li className="list-disc">
+                  Simply put, to allow computers to see, you need to have
+                  digital stuff to look at!
                 </li>
               </ul>
             </>
@@ -102,16 +106,17 @@ export default function Home() {
                 <li className="list-disc">
                   The study of graphs and functions in mathematics is important
                   to figure out how computers can model the patterns they see
+                  (Krishnamurthy).
                 </li>
                 <li className="list-disc">
                   Studying functions that mimic neurons is a good way to
                   determine the action potential of a node (mimicking a neuron)
-                  in an ML model
+                  in an ML model.
                 </li>
                 <li className="list-disc">
                   Each node has a certain threshold at which it will be
                   processed. This threshold is calculated using complex
-                  functions through multiple layers
+                  functions through multiple layers of "neurons" or nodes.
                 </li>
               </ul>
             </>
@@ -124,16 +129,21 @@ export default function Home() {
               <ul className="p-6 text-sm duration-700 ease-in-out">
                 <li className="list-disc">
                   From the beginning of CV, biological vision offered insights
-                  into how we can structure computer vision (with lines and
-                  shapes to begin with)
+                  into how we can structure computer vision (starting with basic
+                  lines and shapes) (Statista).
+                </li>
+                <li className="list-disc">
+                  Our brains process the outlines of objects before the details!
+                  That is the same process used for CV!
                 </li>
                 <li className="list-disc">
                   The study of CV was born from the study of optical functions
                   in a cat (check the History tab in the navbar!)
+                  (MotionMetrics).
                 </li>
                 <li className="list-disc">
                   The brain is a complex machine and CV mimics such a system
-                  with mechanical minds
+                  with mechanical minds.
                 </li>
               </ul>
             </>
@@ -147,19 +157,20 @@ export default function Home() {
               <ul className="p-6 text-sm duration-700 ease-in-out">
                 <li className="list-disc">
                   CV requires a large amount of storage, processing power and
-                  electricity
+                  electricity.
                 </li>
                 <li className="list-disc">
                   The amount of storage humans have in their brains is extremely
-                  high, as there are a thousand trillion synapses (Cornell)
+                  high, as there are a thousand trillion synapses for
+                  connections in our brain (Zhang).
                 </li>
                 <li className="list-disc">
                   The necessity to process all the individual patterns must be
-                  done with extremely powerful processing units
+                  done with extremely powerful processing units.
                 </li>
                 <li className="list-disc">
                   The improvement of CPUs and memory over the decades has
-                  increased the ceiling on CV
+                  increased the ceiling on CV.
                 </li>
               </ul>
             </>
@@ -180,13 +191,14 @@ export default function Home() {
       <h3 className="pt-24 text-5xl">Personal Experiences</h3>
       <ul className="py-6 text-xl">
         <li className="list-disc p-2">
-          I have used tensorflow js with python to set up a deep learning
+          I have used tensorflow keras with python to set up a deep learning
           program that creates a CV ML model to classify foods based on my data
-          set of food categories
+          set of food categories (Tensorflow).
         </li>
         <li className="list-disc p-2">
-          I used ReLu functions for each layer to act as the function that
-          determined the action potential of the nodes to mimic neurons
+          My team and I used ReLu functions for each layer to act as the
+          function that determined the action potential of the nodes to mimic
+          neurons (Krishnamurthy).
         </li>
         <a
           href="https://devpost.com/software/pentous"
@@ -205,21 +217,20 @@ export default function Home() {
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         ></iframe>
         <p className="py-3">
-          Our model, named JART, was part of my first ever hackathon project.
+          Our model, named JART, was part of our first ever hackathon project.
           JART did not perform particularly amazing, but had a training accuracy
           rate of 99%. The problem is that this rate was only achieved with the
-          training set, not with new data.
+          training set, not with new data (Renotte).
         </p>
         <p className="py-3">
           Images had to be scaled before they could be processed. This was done
           by unlocking the aspect ratio and forcing the image to be within a
-          specific square ratio. This standardisation was essential in keeping
-          patterns and processing equal among images
+          specific square ratio.
         </p>
       </ul>
       <p className="p-16 text-center text-2xl text-seashell">
         We used: Typescript (T3 Stack), CSS (Really just Tailwind though),
-        React, Python, Tensorflow and HTML to create Pentous!
+        React, Python, Tensorflow Keras and HTML to create Pentous!
       </p>
       <Gallery></Gallery>
       <div className="main"></div>
