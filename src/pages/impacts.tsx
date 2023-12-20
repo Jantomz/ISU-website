@@ -124,7 +124,18 @@ export default function Impacts() {
             <p className=" text-black">
               There may be no way to stop the AI revolution, so the best
               solution may be to invest in green infrastructure to keep up with
-              high energy demands...
+              high energy demands.
+            </p>
+            <p className=" text-black">
+              This would be transitioning to more renewable sources of energy
+              and reducing large industries' usages (the typical plans).
+            </p>
+            <p className=" text-black">
+              An interesting comparison is the large growth of cryptocurrency
+              mining to AI for energy usage. Cryptocurrency uses a large amount
+              of energy and encourages people to act without environmental
+              stewardship. With some places banning crypto-mining, a similar
+              process can be taken for CV if it runs too far!
             </p>
           </div>
         </div>
