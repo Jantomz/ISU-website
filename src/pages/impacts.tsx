@@ -130,6 +130,7 @@ export default function Impacts() {
               This would be transitioning to more renewable sources of energy
               and reducing large industries' usages (the typical plans).
             </p>
+            <br></br>
             <p className=" text-black">
               An interesting comparison is the large growth of cryptocurrency
               mining to AI for energy usage. Cryptocurrency uses a large amount
