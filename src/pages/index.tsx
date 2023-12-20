@@ -38,17 +38,17 @@ export default function Home() {
       <p className="py-6 text-xl">
         CV has different types of layers for different functionalities, but I
         will focus on classification-type CV. A simple way computers process an
-        image is by only using black and white pictures. The brightnesses of
-        each pixel can be converted to their respective values (representing the
-        brightness of each pixel) and can be placed in an array. The array can
-        then be analysed for many different types of patterns (Simplilearn). The
-        patterns are associated with their respective labels for the objects in
-        the images. After many different images from a data set and tweaks to
-        the types of template patterns, a model is compiled that knows the
-        patterns of pixels for specific shapes. (V7Labs) When novel images are
-        given to the model, it compares the new patterns to known patterns and
-        gives a similarity rating. The label with the highest matching rate is
-        the classification given to the image (IBM).
+        image is by only using black and white pictures. The brightness of each
+        pixel can be converted to their respective values and placed in an
+        array. The array can then be analysed for many different types of
+        patterns (Simplilearn). The patterns are associated with their
+        respective labels for the objects in the images. After many different
+        images from a data set and tweaks to the types of template patterns, a
+        model is compiled that knows the patterns of pixels for specific shapes
+        (V7Labs). When novel images are given to the model, it compares the new
+        patterns to known patterns and gives a similarity rating. The label with
+        the highest matching rate is the classification given to the image
+        (IBM).
       </p>
       <div className="pt-4 text-center text-2xl">Helpful Video!</div>
       <iframe
@@ -79,7 +79,7 @@ export default function Home() {
               <ul className="p-6 text-sm duration-700 ease-in-out">
                 <li className="list-disc">
                   Learning how to get visual input to CV models for processing
-                  is the first step in processing patterns for CV (Microsoft).
+                  is the first step to vision (Microsoft).
                 </li>
                 <li className="list-disc">
                   It is vital for computer vision to receive the data with as
@@ -110,8 +110,8 @@ export default function Home() {
                 </li>
                 <li className="list-disc">
                   Studying functions that mimic neurons is a good way to
-                  determine the action potential of a node (mimicking a neuron)
-                  in an ML model.
+                  determine the action potential (possibility to fire a signal)
+                  of a node in an ML model.
                 </li>
                 <li className="list-disc">
                   Each node has a certain threshold at which it will be
@@ -128,9 +128,10 @@ export default function Home() {
               </h3>
               <ul className="p-6 text-sm duration-700 ease-in-out">
                 <li className="list-disc">
-                  From the beginning of CV, biological vision offered insights
-                  into how we can structure computer vision (starting with basic
-                  lines and shapes) (Statista).
+                  Biological vision offers insights into how we can structure
+                  computer vision. There is a start with basic lines and shapes
+                  like David Marr established in 1969 (Check "History" tab in
+                  the navbar!) (Statista).
                 </li>
                 <li className="list-disc">
                   Our brains process the outlines of objects before the details!
@@ -138,8 +139,7 @@ export default function Home() {
                 </li>
                 <li className="list-disc">
                   The study of CV was born from the study of optical functions
-                  in a cat (check the History tab in the navbar!)
-                  (MotionMetrics).
+                  in a cat (check the "History" in the navbar!) (MotionMetrics).
                 </li>
                 <li className="list-disc">
                   The brain is a complex machine and CV mimics such a system
@@ -218,9 +218,9 @@ export default function Home() {
         ></iframe>
         <p className="py-3">
           Our model, named JART, was part of our first ever hackathon project.
-          JART did not perform particularly amazing, but had a training accuracy
-          rate of 99%. The problem is that this rate was only achieved with the
-          training set, not with new data (Renotte).
+          JART was not particularly amazing, but had a training accuracy rate of
+          99%. The problem is that this rate was only achieved with the training
+          set, not with new data (Renotte).
         </p>
         <p className="py-3">
           Images had to be scaled before they could be processed. This was done

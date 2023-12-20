@@ -139,14 +139,15 @@ export default function Impacts() {
             </p>
             <p className="text-black">
               Computer vision allows subtle patterns in medical imaging to be
-              picked up, increasing the rate of successful early catches on
-              complications (AugmentedStartups) (Javaid).
+              picked up, increasing the rate of successful early catches for
+              health complications (AugmentedStartups, Javaid).
             </p>
             <h2 className="py-4 text-xl text-black">Negative:</h2>
             <p className=" text-black">
-              Computer vision gives humans the ability to augment reality at a
-              better degree. People may fall into isolation if too attached to
-              virtual reality, decreasing mental well-being.
+              Computer vision gives humans the ability to augment reality at
+              higher qualities. Computers being able to process images allows
+              for high-tech vision devices! People may fall into isolation if
+              too attached to virtual reality, decreasing mental well-being.
             </p>
           </div>
           <div className="m-6 flex flex-col flex-wrap rounded-md bg-mustyGray p-3">
@@ -173,8 +174,8 @@ export default function Impacts() {
           <p className="text-black">
             With the new development in biotechnology, there is a vast field
             ready to be explored. For example, nurses who can create programs
-            for patients' microbots to provide medicine may very well be a
-            future job (Forbes).
+            for patients' microbots to administer medicine may be a future job
+            (Forbes).
           </p>
         </div>
 
@@ -191,7 +192,7 @@ export default function Impacts() {
             </p>
             <p className="pb-3 text-black">
               Big companies are already using computer vision to access data
-              about a users social media output for targeted advertising.
+              about a user's social media output for targeted advertising.
             </p>
             <p className=" pb-3 text-black">
               Computer vision can be used to discriminate against different
@@ -208,9 +209,8 @@ export default function Impacts() {
             <h1 className="text-center text-xl text-black">Solutions</h1>
             <p className="pb-3 text-black">
               There will need to be cut backs on the permissions of computer
-              systems and their vision in all aspects of life. Laws must be
-              established, even though they may take away some benefits of CV
-              (LinkedIn).
+              systems. Laws must be established, even though they may take away
+              some benefits of CV (LinkedIn).
             </p>
             <p className="pb-3 text-black">
               Opt-in must be mandatory for service providers that have computer
@@ -223,10 +223,10 @@ export default function Impacts() {
             </p>
           </div>
         </div>
-        <div className="m-6 flex flex-col flex-wrap rounded-md bg-seashell p-3">
+        <div className="m-6 flex flex-col flex-wrap rounded-md bg-techGreen p-3">
           <h1 className="text-center text-xl text-black">Careers</h1>
           <p className="pb-3 text-black">
-            Jobs in legal action for and against CV and AI will become
+            Jobs in legal action for and against CV and AI may become
             commonplace (Srivasta).
           </p>
           <p className="text-black">
@@ -281,17 +281,19 @@ export default function Impacts() {
             </li>
             <li className="list-disc text-lg text-black">
               There will need to be an understanding of the rights of a machine
-              and its uses.
+              and its users.
             </li>
             <li className="list-disc text-lg text-black">
-              Discriminatory biases will be an important part of the job, and a
-              post-secondary education in ethnic studies would be useful to
-              understand the different ways data-sets may be trained poorly.
+              Discriminatory biases will be a part of the job, and a
+              post-secondary education in ethnic studies may be useful to
+              understand the different ways datasets can be trained poorly.
             </li>
             <li className="list-disc text-lg text-black">
-              For this segment, you will basically need a double major in these
-              fields, as these career opportunities are so novel that it’s not
-              something that institutions provide readily (Indeed).
+              For this segment, you will most likely require a double major in
+              computer science and any of these subjects: law, ethics,
+              philosophy, racial studies... as these career opportunities are so
+              novel that it’s not something that institutions commonly
+              (currently) provide (Indeed).
             </li>
             <Link
               className="text-lg underline decoration-mustyGray"

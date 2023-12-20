@@ -8,7 +8,7 @@ export default function Timeline() {
         <div className="w-1/2 border-r-2 border-r-techGreen p-4 text-right">
           <h1 className="py-4 text-3xl font-bold">1956 AI Seminar</h1>
           The first instance of computer vision was introduced at a Dartmouth
-          College summer seminar on Artificial Intelligence (Srivasta).
+          College summer seminar on Artificial Intelligence (Ambika).
           <p className="pt-8 text-xl">
             This is deemed the official conception of AI, CV and ML (by
             Dartmouth... and many other scientists)!
@@ -57,7 +57,7 @@ export default function Timeline() {
         <div className="w-1/2 border-r-2 border-r-techGreen p-4 text-right">
           <h1 className="py-4 text-3xl font-bold">1962 Hough Transform</h1>
           The Hough Transform was a massive breakthrough in pattern recognition
-          using functions and mathematics to detect lines (Srivasta).
+          using functions and mathematics to detect lines.
           <br></br>
           You can read more about the way it accomplishes this and the theory
           here:<br></br>
@@ -85,7 +85,7 @@ export default function Timeline() {
         <div className="w-1/2 p-4">
           <h1 className="py-4 text-3xl font-bold">1963 Lawrence Roberts</h1>
           Computers began visualising and calculating what 3 dimensional vision
-          would be like in a 2 dimensional display (Srivasta).
+          would be like in a 2 dimensional display (Ambika).
           <p className="text-xl">
             Lawrence “Larry” Roberts, deemed the father of computer vision,
             explored extracting 3D information from 2D views (so that computer
@@ -99,7 +99,7 @@ export default function Timeline() {
           <h1 className="py-4 text-3xl font-bold">1969 David Marr</h1>
           <p>
             David Marr, British neuroscientist, published seminal papers about
-            vision and the brain (Srivasta).
+            vision and the brain.
           </p>
           <p className="text-xl">
             Coined the ‘stages of vision’ primal sketch, 2.5D sketch and 3D
@@ -132,7 +132,7 @@ export default function Timeline() {
           <h1 className="py-4 text-3xl font-bold">1990 Max Pooling</h1>
           Yamaguchi (and partner researchers) created max pooling, a filtering
           operation to calculate the values at certain pixel regions so that
-          computers can group pixels together (Srivasta).
+          computers can group pixels together (Ambika).
           <p className="text-lg">
             Max pooling contributed to Convolutional Neural Networks (CNN), a
             work derived from the research of Hubel and Wiesel (from 1959)!
@@ -146,7 +146,7 @@ export default function Timeline() {
           <h1 className="py-4 text-3xl font-bold">2001 Viola Jones</h1>
           <p>
             The Viola Jones face detection framework was proposed by Paul Viola
-            and Michael Jones (Srivasta).
+            and Michael Jones.
           </p>
           <p>
             Bounding faces and detecting their presence in images was a complex
@@ -190,7 +190,7 @@ export default function Timeline() {
           </p>
           <p className="pt-4">
             Basically... two AI's battled/trained each other to become smarter!
-            (Not super accurate, but a fun way to think of it)!
+            (Not perfectly accurate, but a fun way to think of it)!
           </p>
         </div>
       </div>
